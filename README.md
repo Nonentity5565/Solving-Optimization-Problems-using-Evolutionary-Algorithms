@@ -1,6 +1,7 @@
 # Computational-Intelligence-Assignment1
 ***
 ## Assignment Description
+
 Students were assigned two problem statements and must employ artificial intelligent algorithms to find the solution and solve them.
 ---
 ## Problem 1: Optimal Seating Arrangements
