@@ -23,9 +23,9 @@ Students are to also develop their own fitness function and balance different pr
 
 ## Solution
 ### Problem 1 - Genetic Algorithm
-* Genetic Algorithm is a pattern searching algorithm based on the principles of natural selections and genetics. Each organism carries different values for each properties and breed through generations to find the best pattern.
+Genetic Algorithm is a pattern searching algorithm based on the principles of natural selections and genetics. Each organism carries different values for each properties and breed through generations to find the best pattern.
 
-Result: After 10 trial runs, all result unanimously reached a total happiness of 225 with the seating arrangement set to [B, C, D, A, E].
+* Result: After 10 trial runs, all result unanimously reached a total happiness of 225 with the seating arrangement set to [B, C, D, A, E].
 
 ### Problem 2 - Particle Swarm Optimization
 Particle Swarm Optimization is a discovery algorithm where particles are initially dispersed onto an area and the particles slowly converge at the optimal position.
