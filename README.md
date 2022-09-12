@@ -22,12 +22,12 @@ Given the following factors with their respective formulas:
 Students are to also develop their own fitness function and balance different priorities.
 
 ## Solution
-* Problem 1 - Genetic Algorithm
-Genetic Algorithm is a pattern searching algorithm based on the principles of natural selections and genetics. Each organism carries different values for each properties and breed through generations to find the best pattern.
+### Problem 1 - Genetic Algorithm
+* Genetic Algorithm is a pattern searching algorithm based on the principles of natural selections and genetics. Each organism carries different values for each properties and breed through generations to find the best pattern.
 
 Result: After 10 trial runs, all result unanimously reached a total happiness of 225 with the seating arrangement set to [B, C, D, A, E].
 
-* Problem 2 - Particle Swarm Optimization
+### Problem 2 - Particle Swarm Optimization
 Particle Swarm Optimization is a discovery algorithm where particles are initially dispersed onto an area and the particles slowly converge at the optimal position.
 
-Result: The optimal time to move out was found to be around Sunday 21:43, the combined cost for accommodation and moving will be RM 303.30 and the renovation level of the new location will be 98.8% completed.
+* Result: The optimal time to move out was found to be around Sunday 21:43, the combined cost for accommodation and moving will be RM 303.30 and the renovation level of the new location will be 98.8% completed.
