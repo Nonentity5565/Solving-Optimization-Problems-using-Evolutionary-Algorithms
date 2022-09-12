@@ -15,7 +15,7 @@ A table is provided to show the "happiness scale" of how happy a person is when 
 |E|-50|-30|-100|-10|0|
 ---
 ## Problem 2: Determine the ideal time to move out
-Given the following factors:
+Given the following factors with their respective formulas:
 * Renovation level of the new accomodation (Higher = better)
 * Accomodation cost (Lower = better)
 * Price to be paid when leaving (Lower = better)
